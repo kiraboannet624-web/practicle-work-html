@@ -1,0 +1,27 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    text-align: center;
+
+}
+table{
+    width: 10%
+    border-collapse: collapse;
+    border-radius: 10px;
+}
+th{
+    color: red;
+    padding: 10px;
+}
+td{
+    text-align: center;
+    padding: 10px;
+}
+tr{
+    background-color: aquamarine;
+}
