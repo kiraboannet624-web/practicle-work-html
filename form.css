@@ -1,21 +1,33 @@
-form{
-    background-color: burlywood;
-    width: 25%;
-    height: 25%;
-    text-align: center;
-    margin-left: 30%;
-    border-radius: 50px;
-    color: aqua;
-    
-}
-input{
-    border-radius: 6px;
-    margin-left: 10px;
-}
-h1{
-  text-align: center; 
-  text-decoration: underline; 
-}
-body{
-    background-color: darkgreen;
-}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eef2f3;
+  }
+  
+  .reg-form {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+  }
+  
+  .reg-form label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  .reg-form input {
+    width: 100%;
+    padding: 6px;
+    margin-top: 5px;
+  }
+  
+  .reg-form button {
+    margin-top: 15px;
+    padding: 8px;
+    width: 100%;
+    background-color: #1e90ff;
+    color: white;
+    border: none;
+  }
+  
